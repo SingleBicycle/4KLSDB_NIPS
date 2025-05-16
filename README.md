@@ -46,6 +46,22 @@ We demonstrate 4KLSDB’s utility by training representative SR and diffusion mo
 _Comprehensive experiments reveal a clear positive correlation between native 4K training data and improved restoration/synthesis quality._
 
 ---
+** Finetune repositories 
+OSEDiff Super-Resolution
+Finetune OSEDiff on custom SR datasets
+🔗 https://github.com/YourUser/osediff-finetune
+
+Stable Diffusion LoRA
+LoRA-based finetuning for Stable Diffusion
+🔗 https://github.com/YourUser/sd-lora-finetune
+
+SwinIR x4/x8/x16
+Single-scale SwinIR training scripts
+🔗 https://github.com/YourUser/swinir-training
+
+Diffusion-4K-α
+4K text-to-image diffusion baseline
+🔗 https://github.com/YourUser/diffusion-4k-alpha
 
 ## 📥 Getting Started
 
