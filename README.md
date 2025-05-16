@@ -47,21 +47,18 @@ _Comprehensive experiments reveal a clear positive correlation between native 4K
 
 ---
 ** Finetune repositories 
+
 OSEDiff Super-Resolution
 Finetune OSEDiff on custom SR datasets
-🔗 https://github.com/YourUser/osediff-finetune
-
-Stable Diffusion LoRA
-LoRA-based finetuning for Stable Diffusion
-🔗 https://github.com/YourUser/sd-lora-finetune
+🔗 https://github.com/cswry/OSEDiff.git
 
 SwinIR x4/x8/x16
 Single-scale SwinIR training scripts
-🔗 https://github.com/YourUser/swinir-training
+🔗 https://github.com/cszn/KAIR.git
 
 Diffusion-4K-α
 4K text-to-image diffusion baseline
-🔗 https://github.com/YourUser/diffusion-4k-alpha
+🔗 [https://github.com/YourUser/diffusion-4k-alpha](https://github.com/zhang0jhon/diffusion-4k.git)
 
 ## 📥 Getting Started
 
