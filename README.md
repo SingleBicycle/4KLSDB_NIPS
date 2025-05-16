@@ -50,6 +50,6 @@ _Comprehensive experiments reveal a clear positive correlation between native 4K
 ## 📥 Getting Started
 
 ```bash
-git clone https://github.com/SingleBicycle/4KLSDB.git
-cd 4KLSDB
+git clone https://github.com/SingleBicycle/4KLSDB_NIPS.git
+cd 4KLSDB_NIPS
 # Follow instructions in `DATA.md` to download and prepare the 4KLSDB dataset.
